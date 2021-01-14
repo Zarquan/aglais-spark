@@ -22,7 +22,7 @@
   <parent>
     <groupId>org.apache.spark</groupId>
     <artifactId>spark-parent_2.12</artifactId>
-    <version project='aglais-spark'>aglais-20210114</version>
+    <version project='aglais-spark'>aglais-spark-20210114</version>
     <relativePath>../pom.xml</relativePath>
   </parent>
 
